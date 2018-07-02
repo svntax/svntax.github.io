@@ -1,0 +1,30 @@
+.jumbotron {
+  color:#d6e4f9;
+  background-color:#7fb2f0;
+  margin:0px 0px 10px;
+}
+
+.entry-other {
+  padding:15px;
+}
+
+.entry-main {
+  padding:20px 0px 20px 0px;
+}
+
+.links-main {
+  padding:10px 15px 0px 10px;
+}
+
+.links-main a {
+  margin:0px 10px;
+}
+
+.footer-copyright p {
+  margin:10px 0px;
+}
+
+footer {
+  background-color:#7fb2f0;
+}
+
