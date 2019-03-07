@@ -10,6 +10,9 @@
 
 .entry-main {
   padding:20px 0px 20px 0px;
+  background-color:#d6e4f9;
+  margin-bottom:30px;
+  box-shadow:0 4px 4px rgba(0,0,0,0.2);
 }
 
 .links-main {
@@ -35,5 +38,12 @@ body {
 .img-responsive {
   box-shadow:0px 4px 6px rgba(0,0,0,0.2);
   border-radius:4px;
+}
+
+.short-line {
+  width:95px;
+  height:2px;
+  background-color:#35478c;
+  margin:15px 0px 15px;
 }
 
