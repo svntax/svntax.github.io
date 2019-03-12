@@ -2,6 +2,8 @@
   color:#d6e4f9;
   background-color:#7fb2f0;
   margin:0px 0px 10px;
+  box-shadow:4px 0px 6px rgba(0,0,0,0.2);
+  padding:10px;
 }
 
 .entry-other {
@@ -45,5 +47,14 @@ body {
   height:2px;
   background-color:#35478c;
   margin:15px 0px 15px;
+}
+
+.row.contact-section {
+  background-color:#35478c;
+}
+
+.main-button {
+  box-shadow:0 4px 6px rgba(0,0,0,0.2);
+  margin:0 15px;
 }
 
