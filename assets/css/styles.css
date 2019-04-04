@@ -12,9 +12,10 @@
 
 .entry-main {
   padding:20px 0px 20px 0px;
-  background-color:#d6e4f9;
+  background-color:white;
   margin-bottom:30px;
   box-shadow:0 4px 4px rgba(0,0,0,0.2);
+  border-top:5px solid #7fb2f0;
 }
 
 .links-main {
@@ -34,7 +35,7 @@ footer {
 }
 
 body {
-  background-color:#f8f8f8;
+  background-image:linear-gradient(white, #f8f8f8);
 }
 
 .img-responsive {
